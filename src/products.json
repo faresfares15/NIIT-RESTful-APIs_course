@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+        "id": 1,
+        "name": "LED Monitor",
+        "description": "A monitor for your desktop",
+        "price": 100,
+        "quantity": 1
+    },
+    {
+        "id": 2,
+        "name": "Power Bank",
+        "description": "Charge mobiles and other USB devices",
+        "price": 50,
+        "quantity": 1
+    },
+    {
+        "id": 3,
+        "name": "Optical Mouse",
+        "description": "An optical mouse for your desktops and laptops",
+        "price": 25,
+        "quantity": 1
+    },
+    {
+        "id": 4,
+        "name": "Wireless Keyboard",
+        "description": "A keyboard for your desktop",
+        "price": 45,
+        "quantity": 1
+    }
+  ]
+}
